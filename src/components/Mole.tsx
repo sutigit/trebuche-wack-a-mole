@@ -144,6 +144,7 @@ const MolePad: React.CSSProperties = {
     alignItems: 'flex-end',
     overflow: 'hidden',
     cursor: 'pointer',
+    outline: 'none',
 }
 
 const MoleCommonStyle: React.CSSProperties = {
