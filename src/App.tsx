@@ -32,7 +32,7 @@ const MainContainer: React.CSSProperties = {
 
 const PlayAreaContainer: React.CSSProperties = {
   paddingTop: "3vh",
-
+  paddingBottom: "10px",
   width: "100%",
   maxWidth: "450px",
   display: "flex",
