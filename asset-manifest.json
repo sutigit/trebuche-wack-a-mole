@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trebuche-wack-a-mole/static/css/main.374281c0.css",
-    "main.js": "/trebuche-wack-a-mole/static/js/main.eef1cba7.js",
+    "main.js": "/trebuche-wack-a-mole/static/js/main.95dfe5b1.js",
     "static/js/453.6d0d1d39.chunk.js": "/trebuche-wack-a-mole/static/js/453.6d0d1d39.chunk.js",
     "index.html": "/trebuche-wack-a-mole/index.html",
     "main.374281c0.css.map": "/trebuche-wack-a-mole/static/css/main.374281c0.css.map",
-    "main.eef1cba7.js.map": "/trebuche-wack-a-mole/static/js/main.eef1cba7.js.map",
+    "main.95dfe5b1.js.map": "/trebuche-wack-a-mole/static/js/main.95dfe5b1.js.map",
     "453.6d0d1d39.chunk.js.map": "/trebuche-wack-a-mole/static/js/453.6d0d1d39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.374281c0.css",
-    "static/js/main.eef1cba7.js"
+    "static/js/main.95dfe5b1.js"
   ]
 }
