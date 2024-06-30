@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trebuche-wack-a-mole/static/css/main.ee1b7197.css",
-    "main.js": "/trebuche-wack-a-mole/static/js/main.9ea1d120.js",
+    "main.css": "/trebuche-wack-a-mole/static/css/main.374281c0.css",
+    "main.js": "/trebuche-wack-a-mole/static/js/main.eef1cba7.js",
     "static/js/453.6d0d1d39.chunk.js": "/trebuche-wack-a-mole/static/js/453.6d0d1d39.chunk.js",
     "index.html": "/trebuche-wack-a-mole/index.html",
-    "main.ee1b7197.css.map": "/trebuche-wack-a-mole/static/css/main.ee1b7197.css.map",
-    "main.9ea1d120.js.map": "/trebuche-wack-a-mole/static/js/main.9ea1d120.js.map",
+    "main.374281c0.css.map": "/trebuche-wack-a-mole/static/css/main.374281c0.css.map",
+    "main.eef1cba7.js.map": "/trebuche-wack-a-mole/static/js/main.eef1cba7.js.map",
     "453.6d0d1d39.chunk.js.map": "/trebuche-wack-a-mole/static/js/453.6d0d1d39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee1b7197.css",
-    "static/js/main.9ea1d120.js"
+    "static/css/main.374281c0.css",
+    "static/js/main.eef1cba7.js"
   ]
 }
