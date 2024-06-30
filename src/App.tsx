@@ -1,26 +1,44 @@
 import React from 'react';
-import logo from './logo.svg';
+import PlayArea from "./components/PlayArea";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <main style={MainContainer}>  
+        <div style={PlayAreaContainer}>
+          <PlayArea />
+        </div>
+      </main>
     </div>
   );
 }
 
 export default App;
+
+
+const MainContainer: React.CSSProperties = {
+  flex: 1,
+  display: "flex",
+  justifyContent: "center",
+  alignItems: "center",
+  backgroundColor: "#E9EAEE",
+  height: "100vh",
+  width: "100vw",
+  overflow: "hidden",
+  padding: "20px",
+  boxSizing: "border-box",
+};
+
+const PlayAreaContainer: React.CSSProperties = {
+  paddingTop: "3vh",
+
+  width: "100%",
+  maxWidth: "450px",
+  display: "flex",
+  flexDirection: "column",
+  justifyContent: "center",
+  alignItems: "center",
+  margin: "auto",
+  backgroundColor: "#FFFFFF",
+};
